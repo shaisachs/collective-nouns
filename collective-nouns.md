@@ -3,3 +3,4 @@
 * A screen of bug reports
 * A flutter of tweets
 * A buttering of scones
+* A jolt of surge protectors
