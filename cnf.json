@@ -1,14 +1,14 @@
 {
-	"_comment": "A proposed data specification for encoding collective nouns, called Collective Noun Format",
-	"_example": "In this case we have several collective nouns: a class of programmers (in the generic sense, can apply to any group of programmers), a statement of programmers (again, in the generic sense), a bracket of programmers (used when the programmers are debugging code), a perk of programmers (when they are brewing cappuccinos), a hop of programmers (when they are brewing beer)."
+    "_comment": "A proposed data specification for encoding collective nouns, called Collective Noun Format",
+    "_example": "In this case we have several collective nouns: a class of programmers (in the generic sense, can apply to any group of programmers), a statement of programmers (again, in the generic sense), a bracket of programmers (used when the programmers are debugging code), a perk of programmers (when they are brewing cappuccinos), a hop of programmers (when they are brewing beer).",
     "singularNoun": "programmer",
     "pluralNoun": "programmers",
     "collectiveNouns": [
     	{
-    		"collectiveNoun": "class"
+            "collectiveNoun": "class"
     	},
     	{
-    		"collectiveNoun": "statement"
+            "collectiveNoun": "statement"
     	},
         {
             "collectiveNoun": "bracket",
